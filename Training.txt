@@ -1,3 +1,5 @@
 In the begining there was nothing!
 
 The we performed a git init.
+
+And then we added more stuff after the first add.
