@@ -9,3 +9,6 @@ We will now talk about branching. This are interesting.
 
 == Second story
 We will now discuss multiple commits
+
+==Adding more things to commit
+Now adding things to commit wiTH some AnnYoNg ErrrrorS
