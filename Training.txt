@@ -11,4 +11,5 @@ We will now talk about branching. This are interesting.
 We will now discuss multiple commits
 
 ==Adding more things to commit
-Now adding things to commit wiTH some AnnYoNg ErrrrorS
+Now adding things to commit with some annoying errors.
+Which are fixed by now.
