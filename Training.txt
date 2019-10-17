@@ -4,5 +4,5 @@ The we performed a git init.
 
 And then we added more stuff after the first add.
 
-== New event
+== New story
 We will now talk about branching. This are interesting.
