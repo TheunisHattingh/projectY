@@ -1,0 +1,3 @@
+In the begining there was nothing!
+
+The we performed a git init.
